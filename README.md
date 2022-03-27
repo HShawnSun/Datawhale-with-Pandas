@@ -1,2 +1,2 @@
 # datawhale-
-Data analysis in preparation for the Mathematical American Competition
+Data analysis in preparation for the MCM&ICM
