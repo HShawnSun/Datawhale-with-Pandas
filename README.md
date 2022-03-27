@@ -1,2 +1,2 @@
 # datawhale-
-为数模美赛准备的数据分析
+Data analysis in preparation for the Mathematical American Competition
